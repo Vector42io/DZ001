@@ -16,7 +16,8 @@
 .
 .
 .
--> game over, level 15.
+-> game over, level 15. Restart? (y/n): n
+bye!
 ```
 
 \* лист из 15 тыс городов прилагается смотрите в репо
